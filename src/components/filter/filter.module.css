@@ -1,0 +1,14 @@
+.label {
+  display: flex;
+  justify-content: space-between;
+  width: 650px;
+  margin: 0 auto 20px auto;
+}
+
+.input {
+  width: 200px;
+  padding: 10px;
+  outline: none;
+  border: 2px solid rgb(18, 13, 90);
+  border-radius: 4px;
+}
